@@ -41,7 +41,7 @@ Below is the valid format of a map:
 6-5`
 
 which graphically translates in
-
+`
            _______________
           /               \
   ______[5]----[3]----[1] |
@@ -50,7 +50,7 @@ which graphically translates in
  \    _________/ | /      |
   \  /         [2]/_______/
   [7]_________/
-  
+`  
   
 ## Algorithm
   
