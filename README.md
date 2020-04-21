@@ -15,8 +15,8 @@ The whole subject is available in the repository in both French and English.
 
 Below is the valid format of a map:
 
-`##start`
-`1 23 3`
+`##start`<br/>
+`1 23 3<br/>`
 `2 16 7`
 `#comment`
 `3 16 3`
