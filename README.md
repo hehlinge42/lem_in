@@ -42,7 +42,7 @@ Below is the valid format of a map:
 
 which graphically translates in
 
-`           _______________` <br/>
+`           _______________` <br/>
 `          /               |`<br/>
 `  ______[5]----[3]----[1] |`<br/>
 ` /              |    /    |`<br/>
